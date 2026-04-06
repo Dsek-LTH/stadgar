@@ -1,3 +1,6 @@
+> [!IMPORTANT]  
+> Flyttat till [Dsek-LTH/styrdokument](https://github.com/Dsek-LTH/styrdokument)
+
 # Stadgar
 
 Detta är D-sektionen inom TLTHs stadgar. Under "Releases" finns alla versioner av stadgarna och om en följer commit-meddelanden finns mer detaljerad historik.
